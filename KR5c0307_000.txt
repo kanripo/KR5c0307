@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:55:49.692031
-#+TITLE: 龍虎還丹訣
-#+PROPERTY: DZID  DZ0909
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—107 二卷 洞神部眾術類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
